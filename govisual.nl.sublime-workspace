@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"data",
+				"dataPoint"
+			],
+			[
+				"speed",
+				"speedtrapMarkers"
+			],
+			[
+				"element",
+				"elementType"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"start",
+				"startBackgroundVideo"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bac",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 225.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rwa/Github/govisual.nl/CNAME",
+		"/Users/rwa/Github/govisual.nl/.githubsettings",
+		"/Users/rwa/Projects/Govisual/Website v3/templates/includes/header.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/nav.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/header.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/navigate-down.liquid",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/Website/js/map.min.js",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/Website/realtime.html",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/todo",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/Website/js/map.js",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/realtime.html",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/js/map.js",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/style.css",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/realtime met json start.html",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/realtime met json.html",
+		"/Users/rwa/Projects/Flitsmeister/Design/Realtime Map/fm-realtime.html",
+		"/Users/rwa/Downloads/snazzy-maps-example-midnight-commander-style.html",
+		"/Users/rwa/Github/veganific.com/scss/app.scss",
+		"/Users/rwa/Github/veganific.com/Gruntfile.js",
+		"/Users/rwa/Github/temp/project_name/css/app.css",
+		"/Users/rwa/Github/temp/project_name/scss/app.scss",
+		"/Users/rwa/Github/temp/foundation-libsass-template/scss/app.scss",
+		"/Users/rwa/Github/veganific.com/sass/app.scss",
+		"/Users/rwa/Github/veganific.com/config.rb",
+		"/Users/rwa/Github/rwa.me/mixture.json",
+		"/Users/rwa/Github/rwa.me/rwa.sublime-workspace",
+		"/Volumes/· · · · · ·/io.nfo",
+		"/Users/rwa/Producing/Downloads/ABLETON_LIVE_SUITE_V9.1_MACOSX64-XFORCE/ABLETON_LIVE_SUITE_V9.1_MACOSX64-XFORCE.nfo",
+		"/Users/rwa/Github/familiedobbel.nl/templates/includes/order.liquid",
+		"/Users/rwa/Github/familiedobbel.nl/familiedobbel",
+		"/Users/rwa/Downloads/html5up-telephasic/no-sidebar.html",
+		"/Users/rwa/Downloads/html5up-telephasic/css/style-n6.css",
+		"/Users/rwa/Downloads/html5up-telephasic/css/style.css",
+		"/Users/rwa/Downloads/html5up-telephasic/css/style-n1.css",
+		"/Users/rwa/Downloads/html5up-telephasic/left-sidebar.html",
+		"/Users/rwa/Downloads/html5up-telephasic/css/style-n2.css",
+		"/Users/rwa/Github/appdemo/templates/layouts/layout.liquid",
+		"/Users/rwa/Github/appdemo/assets/scss/app.scss",
+		"/Users/rwa/Github/appdemo/templates/index.liquid",
+		"/Users/rwa/Github/Puzzlr/Photopacks/photopacks.json",
+		"/Users/rwa/Github/Puzzlr/Puzzlr/Podfile",
+		"/Users/rwa/Github/rwa.me/templates/blog.liquid",
+		"/Users/rwa/Github/rwa.me/templates/about.liquid",
+		"/Users/rwa/Github/rwa.me/templates/index.liquid",
+		"/Users/rwa/Github/rwa.me/assets/scss/app.scss",
+		"/Users/rwa/Github/unzone-ios/unzone/Podfile",
+		"/Users/rwa/Producing/Templates/Drumazon Drumrack",
+		"/Users/rwa/Github/rwa.me/templates/layouts/work-item.liquid",
+		"/Users/rwa/Github/rwa.me/collections/work/alarmik.liquid",
+		"/Users/rwa/Github/rwa.me/collections/blog/unzone.liquid",
+		"/Users/rwa/Github/rwa.me/templates/layouts/layout.liquid",
+		"/Users/rwa/Github/rwa.me/collections/work/dragshare.liquid",
+		"/Users/rwa/Github/rwa.me/collections/work/fitness.liquid",
+		"/Users/rwa/Github/rwa.me/collections/work/flitsmeister.liquid",
+		"/Users/rwa/Github/rwa.me/collections/blog/free-ios7-psd-sightsy.liquid",
+		"/Users/rwa/Github/rwa.me/collections/blog/free-iphone-wallpaper.liquid",
+		"/Users/rwa/Github/rwa.me/assets/js/app.js",
+		"/Users/rwa/Github/rwa.me/templates/includes/scripts.liquid",
+		"/Users/rwa/Projects/00.Code Snippets/span-change.sublime-snippet",
+		"/Users/rwa/Github/rwa.me/templates/layouts/blog-post.liquid",
+		"/Users/rwa/Github/rwa.me/templates/rss.liquid",
+		"/Users/rwa/Github/jorndevries.nl/CNAME",
+		"/Users/rwa/Github/rwa.me/models/_global.json",
+		"/Users/rwa/Github/rwa.me/collections/blog/inspiration-2014-week-12.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/footer.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/footer-work.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/scripts-work.liquid",
+		"/Users/rwa/Github/rwa.me/collections/blog/the-secret-handshake.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/footer-main.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/work-footer.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/work-scripts.liquid",
+		"/Users/rwa/Github/rwa.me/assets/js/vendor/jquery.js",
+		"/Users/rwa/Github/rwa.me/CNAME",
+		"/Users/rwa/Projects/rwa.me/simple dropdown",
+		"/Users/rwa/Github/rwa.me/templates/includes/nav-small.liquid",
+		"/Users/rwa/Github/rwa.me/templates/includes/subscribe.liquid",
+		"/Users/rwa/Github/rwa.me/assets/js/vendor/smooth-scroll.js",
+		"/Users/rwa/Github/rwa.me/assets/css/app.css",
+		"/Users/rwa/Github/rwa.me/assets/css/app.min.css",
+		"/Users/rwa/Github/rwa.me/assets/js/vendor/picturefill.min.js",
+		"/Users/rwa/Github/rwa.me/assets/js/vendor/data-img.min.js",
+		"/Users/rwa/Github/rwa.me/collections/blog/improving-discovery-on-spotify.liquid",
+		"/Users/rwa/Github/templates/about.liquid",
+		"/Users/rwa/Github/templates/blog.liquid",
+		"/Users/rwa/Github/templates/index.liquid",
+		"/Users/rwa/Github/templates/layouts/blog-post.liquid",
+		"/Users/rwa/Github/templates/layouts/layout.liquid",
+		"/Users/rick/Github/rwa.me/templates/about.liquid",
+		"/Users/rick/Github/dragshare.co/index.html",
+		"/Users/rick/Github/dragshare/help/assets/scss/app.scss",
+		"/Users/rick/Github/dragshare/help/templates/index.liquid",
+		"/Users/rick/Github/dragshare/help/templates/layouts/layout.liquid",
+		"/Users/rick/Github/rwa.me/templates/includes/footer.liquid",
+		"/Users/rick/Github/rwa.me/assets/scss/app.scss",
+		"/Users/rick/Github/rwa.me/templates/layouts/blog-post.liquid",
+		"/Users/rick/Github/rwa.me/collections/blog/improving-discovery-on-spotify.liquid",
+		"/Users/rick/Github/rwa.me/templates/blog.liquid",
+		"/Users/rick/Github/rwa.me/collections/blog/the-secret-handshake.liquid",
+		"/Users/rick/Github/rwa.me/templates/index.liquid",
+		"/Users/rick/Github/rwa.me/templates/favorite-books.liquid",
+		"/Users/rick/Github/rwa.me/templates/layouts/layout.liquid",
+		"/Users/rick/Github/rwa.me/templates/includes/blog-post-contents.liquid",
+		"/Users/rick/Github/rwa.me/templates/includes/header.liquid",
+		"/Users/rick/Github/rwa.me/templates/blog-post.liquid",
+		"/Users/rick/Github/rwa.me/collections/blog/the-secret-handshake",
+		"/Users/rick/Github/rwa.me/README.md",
+		"/Users/rick/Github/rwa/templates/about.liquid",
+		"/Users/rick/Github/rwa/assets/scss/app.scss",
+		"/Users/rick/Github/rwa/assets/js/index.js",
+		"/Users/rick/Github/rwa/templates/index.liquid",
+		"/Users/rick/Github/rwa/templates/layouts/layout.liquid",
+		"/Users/rick/Github/rwa/templates/blog.liquid",
+		"/Users/rick/Github/rwa/assets/js/app.js",
+		"/Users/rick/Github/rwa/templates/favorite-tools.liquid",
+		"/Users/rick/Github/rwa/templates/favorite-books.liquid",
+		"/Users/rick/Github/rwa/models/_global.json",
+		"/Users/rick/Github/dragshare/landing-template2/style.css",
+		"/Users/rick/Github/dragshare.co/help/templates/layouts/layout.liquid",
+		"/Users/rick/Github/dragshare.co/help/templates/index.liquid",
+		"/Users/rick/Github/dragshare.co/help/assets/scss/app.scss",
+		"/Users/rick/Github/dragshare/landing-template2/mixture.json",
+		"/Users/rick/Github/dragshare/landing-template2/templates/includes/footer.liquid",
+		"/Users/rick/Github/dragshare/landing-template/templates/layouts/layout.liquid",
+		"/Users/rick/Github/dragshare/landing-template2/templates/includes/header.liquid",
+		"/Users/rick/Downloads/GRMustache-master/README.md",
+		"/Users/rick/Github/dragshare/landing-template2/templates/index.liquid",
+		"/Users/rick/Github/dragshare/landing-template2/app.js",
+		"/Users/rick/Github/dragshare.co/css/main.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/rick/Github/rwa.me",
+			"/Users/rick/Projects/GoVisual-apps/Dragshare/OSX-Client",
+			"/Users/rick/Projects/Klanten/BlackRooster/Swieper/iOS-App"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"px",
+			"setmap",
+			"set_map",
+			"delete",
+			".total",
+			"download",
+			"loadingspin",
+			"speedtrapMarkers",
+			"refreshSpeedtraps",
+			"marker-c",
+			"jsonCallback",
+			"loaded",
+			"coverage",
+			"refreshSpeedtraps",
+			"pin.png",
+			"overlay",
+			"3000",
+			"setmap",
+			"speedtrap",
+			"parseCoverage",
+			"setmap",
+			".png",
+			"var map",
+			"signal",
+			"border",
+			"fff",
+			"style",
+			"600",
+			"random",
+			"b",
+			"window.abtParam = currentABT();\n$(document).ready(function() {\n    if (typeof window.jmid === undefined) {\n        window.jmid = false\n    }\n    var e = null;\n    s();\n    var t = null;\n    var n;\n    var o;\n    var a = {\n        width: 2062,\n        height: 1328\n    };\n    var r = a.width / a.height;\n    var i = {\n        x: 956,\n        y: 206\n    };\n    var c = {\n        x: -64,\n        y: 943\n    };\n    l();\n    D();\n    cc.init();\n    p();\n    initFacebookSharing();\n    initTwitterSharing();\n\n    function s() {\n        if (window.abtParam && window.abtParam == 2) {\n            $(\"#header-rightV2\").css({\n                display: \"inline-block\"\n            })\n        } else {\n            $(\"#header-right\").css({\n                display: \"inline-block\"\n            })\n        }\n        var e = $(\"#header-center\");\n        if (window.location.hostname != \"map.couple.me\") {\n            $(\"#map_login_link\").attr(\"href\", \"https://app.couple.me/map_login?staging=1\")\n        }\n        if (window.jmid && window.jmid_csrf) {\n            e.empty();\n            e.html('<span class=\"header-center-link\"><a href=\"https://couple.me\">Home</a></span><span>&bull;</span><span class=\"header-center-link\"><a href=\"\" id=\"signout-link\">Sign Out</a></span>');\n            $(\"#lock-icon .bubble-text\").text(\"The security of your personal information is important to us. Couple uses industry standard encryption and security measures to protect your data. All personally identifiable information displayed on the map when you are logged in, is only visible to you and your partner. All publicly displayed location data on this page is anonymous, and is approximated from IP addresses.\");\n            $(\"#info-icon .bubble-title\").text(\"Location Sharing\");\n            $(\"#info-icon .bubble-text\").text(\"The location displayed on the map is an approximation, and may be inaccurate. Please ensure both you and your partner have city-sharing turned on, for the best results. You can find the option to turn it on inside the settings menu, in the mobile app.\");\n            $(\"#signout-link\").on(\"click\", function(e) {\n                e.preventDefault();\n                $.ajax({\n                    type: \"POST\",\n                    url: \"/logout\",\n                    contentType: \"application/json\",\n                    success: function(e) {\n                        console.log(\"success\", e);\n                        location.reload(true)\n                    },\n                    error: function(e) {\n                        console.log(\"jsonp error\", e)\n                    }\n                });\n                return false\n            });\n            var t = \"https://app.couple.me/0/p/web/get_map_data?csrf=\" + window.jmid_csrf + \"&callback=?\";\n            if (window.jmid_staging) {\n                t = \"https://app.couple.me/0/s/web/get_map_data?csrf=\" + window.jmid_csrf + \"&callback=?\"\n            }\n            $.ajax({\n                type: \"GET\",\n                url: t,\n                contentType: \"application/json\",\n                dataType: \"jsonp\",\n                success: function(e) {\n                    O(e)\n                },\n                error: function(e) {}\n            })\n        } else {}\n        e.css({\n            display: \"inline-block\"\n        })\n    }\n\n    function l() {\n        var e = $(\"#map-wrapper\");\n        var t = e.width();\n        var s = e.height();\n        var l = t / s;\n        var p = {};\n        var u = {};\n        if (l < r) {\n            p.width = t;\n            p.height = t / r;\n            u.x = 0;\n            u.y = (s - p.height) / 2\n        } else {\n            p.width = s * r;\n            p.height = s;\n            u.x = (t - p.width) / 2;\n            u.y = 0\n        }\n        var d = {\n            x: p.width / a.width,\n            y: p.height / a.height\n        };\n        var f = {\n            x: i.x * d.x + u.x,\n            y: i.y * d.y + u.y\n        };\n        var h = {\n            x: c.x * d.x + u.x,\n            y: c.y * d.y + u.y\n        };\n        var g = Math.ceil((f.x - h.x) * 2);\n        var v = Math.ceil((h.y - f.y) * 2);\n        var b = $(\"#canvas-wrapper\");\n        b.css({\n            left: h.x,\n            top: f.y\n        });\n        b.css({\n            width: g,\n            height: v\n        });\n        n = g * cc.pRatio;\n        o = v * cc.pRatio\n    }\n\n    function p() {\n        $(window).resize(function() {\n            if (t != null) clearTimeout(t);\n            $(\"#canvas-wrapper\").hide();\n            pauseCC();\n            t = setTimeout(function() {\n                t = null;\n                l();\n                $(\"#canvas-wrapper\").show();\n                D();\n                cc.init()\n            }, 500)\n        });\n        $(\"#lock-icon-tarea\").bind(\"touchstart\", function() {\n            $(\"#lock-icon .bubble\").css({\n                display: \"inline-block\"\n            });\n            $(\"#lock-icon\").css({\n                \"background-position\": \"center bottom\"\n            })\n        }).bind(\"touchend\", function() {\n            $(\"#lock-icon .bubble\").css({\n                display: \"none\"\n            });\n            $(\"#lock-icon\").css({\n                \"background-position\": \"center top\"\n            })\n        });\n        $(\"#lock-icon\").bind(\"touchstart\", function() {\n            $(\"#lock-icon .bubble\").css({\n                display: \"inline-block\"\n            });\n            $(\"#lock-icon\").css({\n                \"background-position\": \"center bottom\"\n            })\n        }).bind(\"touchend\", function() {\n            $(\"#lock-icon .bubble\").css({\n                display: \"none\"\n            });\n            $(\"#lock-icon\").css({\n                \"background-position\": \"center top\"\n            })\n        });\n        $(\"#info-icon-tarea\").bind(\"touchstart\", function() {\n            $(\"#info-icon .bubble\").css({\n                display: \"inline-block\"\n            });\n            $(\"#info-icon\").css({\n                \"background-position\": \"center bottom\"\n            })\n        }).bind(\"touchend\", function() {\n            $(\"#info-icon .bubble\").css({\n                display: \"none\"\n            });\n            $(\"#info-icon\").css({\n                \"background-position\": \"center top\"\n            })\n        });\n        $(\"#info-icon\").bind(\"touchstart\", function() {\n            $(\"#info-icon .bubble\").css({\n                display: \"inline-block\"\n            });\n            $(\"#info-icon\").css({\n                \"background-position\": \"center bottom\"\n            })\n        }).bind(\"touchend\", function() {\n            $(\"#info-icon .bubble\").css({\n                display: \"none\"\n            });\n            $(\"#info-icon\").css({\n                \"background-position\": \"center top\"\n            })\n        })\n    }\n\n    function u(e, t) {\n        var a = (t + 180) * (n / 360);\n        var r = e * Math.PI / 180;\n        var i = Math.log(Math.tan(Math.PI / 4 + r / 2));\n        var c = o / 2 - n * i / (2 * Math.PI);\n        return {\n            left: a,\n            top: c\n        }\n    }\n\n    function d(e, t, n) {\n        if (Math.abs(e.left - t.left) < 4 && Math.abs(e.top - t.top) < 4) {\n            createSDConnection(e.left, e.top, n)\n        } else {\n            createLDConnection(e.left, e.top, t.left, t.top, n);\n            createSDConnection(e.left, e.top, n)\n        }\n    }\n\n    function f(e, t, n) {\n        if (cc.pause) return;\n        var o = u(e.latitude, e.longitude);\n        var a = u(t.latitude, t.longitude);\n        d(o, a, n)\n    }\n    var h = 0;\n    var g = window.MozWebSocket || window.WebSocket;\n    if (g) {\n        S(g)\n    } else {\n        alert(\"not supported on your browser\")\n    }\n    var v = 0;\n    var b = $(\"#info-cell1 .info-cell-text\");\n\n    function m(e) {\n        v = e;\n        _()\n    }\n\n    function w(e) {\n        v += e;\n        _()\n    }\n    var y = 3;\n    setInterval(function() {\n        h -= y;\n        if (h < 0) {\n            h += y\n        } else {\n            w(y)\n        }\n    }, 80);\n    setInterval(function() {\n        var e = 1e3 / 80;\n        y = Math.round(h / e);\n        if (y == 5) {\n            y = 3\n        }\n    }, 1e3);\n    var k = null;\n    var x = Date.now() + 5e3;\n    var j = null;\n\n    function S(e) {\n        try {\n            if (k) {\n                k.close();\n                k = null\n            }\n        } catch (t) {\n            console.log(\"socket close fail\", t)\n        }\n        var n = [\"jumap\"];\n        var o = (\"https:\" == document.location.protocol ? \"wss://\" : \"ws://\") + location.hostname + \"/map_ws\";\n        if (location.port) {\n            o = (\"https:\" == document.location.protocol ? \"wss://\" : \"ws://\") + location.hostname + \":\" + location.port + \"/map_ws\"\n        }\n        console.log(\"connecting to: \" + o);\n        var a = new e(o, n);\n        a.addEventListener(\"open\", function() {\n            console.log(\"websocket connection opened\");\n            a.send(\"Hello, world\");\n            if (k) {\n                k.close()\n            }\n            k = a\n        });\n        a.onerror = function(t) {\n            console.log(\"ERROR: \", t);\n            M(e)\n        };\n        var r = 0;\n        a.onmessage = function(e) {\n            try {\n                x = Date.now();\n                var t = jQuery.parseJSON(e.data);\n                var n = t.d;\n                switch (t.t) {\n                    case \"event\":\n                        P(n);\n                        break;\n                    case \"total-count\":\n                        m(n);\n                        break;\n                    case \"top-connections\":\n                        if (n instanceof Array && n.length) {\n                            A(n)\n                        }\n                        break;\n                    case \"top-cities\":\n                        if (n instanceof Array && n.length) {\n                            I(n)\n                        }\n                        break;\n                    case \"top-stickers\":\n                        if (n instanceof Array && n.length) {\n                            C(n)\n                        }\n                        break;\n                    default:\n                        console.log(\"unknown event type: \" + t.t)\n                }\n            } catch (o) {\n                console.log(\"json parsing error\", o, e.data)\n            }\n        };\n        a.onclose = function(e) {\n            console.log(\"CLOSE: \" + e.code + \", \" + e.reason)\n        };\n        if (!j) {\n            j = setInterval(function() {\n                if (Date.now() - 2e3 > x) {\n                    console.log(\"no messages detected, restarting connection\");\n                    M(e)\n                }\n            }, 500)\n        }\n    }\n    var T = false;\n\n    function M(e) {\n        if (T) {\n            return\n        }\n        try {\n            if (k) {\n                k.close();\n                k = null\n            }\n        } catch (t) {\n            console.log(\"socket close fail\", t)\n        }\n        var n = Math.round(0 + Math.random() * 3e3);\n        console.log(\"retrying connection in \" + n + \"ms\");\n        T = true;\n        setTimeout(function() {\n            setTimeout(function() {\n                T = false\n            }, 2e3);\n            S(e)\n        }, n)\n    }\n\n    function _() {\n        b.text(v.toString().replace(/\\B(?=(\\d{3})+(?!\\d))/g, \",\"))\n    }\n\n    function P(e) {\n        if (e.hasOwnProperty(\"from\") && e.hasOwnProperty(\"to\")) {\n            if (!e.from.hasOwnProperty(\"ll\") || !e.to.hasOwnProperty(\"ll\")) return;\n            var t = {};\n            var n = {};\n            t.latitude = e.from.ll[0];\n            t.longitude = e.from.ll[1];\n            n.latitude = e.to.ll[0];\n            n.longitude = e.to.ll[1];\n            h++;\n            var o = false;\n            if (e.hasOwnProperty(\"mine\") && e.mine == true) {\n                o = true\n            }\n            f(t, n, o)\n        }\n    }\n\n    function A(e) {\n        var t = e.length;\n        if (e.length > 3) {\n            t = 3\n        }\n        var n = \"\";\n        for (var o = 0; o < t; o++) {\n            if (o - 1 >= 0) {\n                n = n + \"<br>\"\n            }\n            n = n + e[o][0].name + \" - \" + e[o][1].name\n        }\n        var a = $(\"#info-cell2 .info-cell-text\");\n        a.html(n)\n    }\n\n    function I(e) {\n        var t = e.length;\n        if (e.length > 3) {\n            t = 3\n        }\n        var n = \"\";\n        for (var o = 0; o < t; o++) {\n            if (o - 1 >= 0) {\n                n = n + \"<br>\"\n            }\n            n = n + e[o].name\n        }\n        var a = $(\"#info-cell3 .info-cell-text\");\n        a.html(n)\n    }\n\n    function C(e) {\n        var t = $(\"#info-cell4 .info-cell-text\");\n        t.empty();\n        for (var n = 0; n < e.length; n++) {\n            var o = e[n].url + \"1x/\" + e[n].sticker + \".png\";\n            var a = $('<div class=\"sticker-div\"></div>').appendTo(t);\n            a.css({\n                background: \"url(\" + o + \") no-repeat\",\n                \"background-size\": \"contain\",\n                \"background-position\": \"center\"\n            })\n        }\n    }\n\n    function O(t) {\n        e = {};\n        e.pairedDate = t.pairDate;\n        e.user = [];\n        e.partner = [];\n        e.user.name = t.name;\n        if (t.hasOwnProperty(\"photo\") && t.photo != null) {\n            e.user.photo = t.photo\n        } else {\n            e.user.photo = \"/images/myphoto-default.png\"\n        }\n        e.user.ll = null;\n        if (Array.isArray(t.geo)) {\n            e.user.ll = [t.geo[0], t.geo[1]]\n        } else if (typeof t.geo == \"string\") {\n            $.ajax({\n                type: \"POST\",\n                url: \"/geocode\",\n                data: {\n                    geo: t.geo\n                },\n                dataType: \"json\",\n                success: function(t) {\n                    e.user.ll = t.ll;\n                    D()\n                },\n                error: function(e) {}\n            })\n        }\n        e.partner.name = t.partnerName;\n        if (t.hasOwnProperty(\"partnerPhoto\") && t.partnerPhoto != null) {\n            e.partner.photo = t.partnerPhoto\n        } else {\n            e.partner.photo = \"/images/partnerphoto-default.png\"\n        }\n        e.partner.ll = null;\n        if (Array.isArray(t.partnerGeo)) {\n            e.partner.ll = [t.partnerGeo[0], t.partnerGeo[1]]\n        } else if (typeof t.partnerGeo == \"string\") {\n            $.ajax({\n                type: \"POST\",\n                url: \"/geocode\",\n                data: {\n                    geo: t.partnerGeo\n                },\n                dataType: \"json\",\n                success: function(t) {\n                    e.partner.ll = t.ll;\n                    D()\n                },\n                error: function(e) {}\n            })\n        }\n        E();\n        D()\n    }\n\n    function E() {\n        if (e == null || window.jmid == false) return;\n        $(\"#pair-event-user-avatar\").css({\n            background: \"url(\" + e.user.photo + \")\",\n            \"background-repeat\": \"no-repeat\",\n            \"background-size\": \"cover\",\n            \"background-position\": \"center\"\n        });\n        $(\"#pair-event-partner-avatar\").css({\n            background: \"url(\" + e.partner.photo + \")\",\n            \"background-repeat\": \"no-repeat\",\n            \"background-size\": \"cover\",\n            \"background-position\": \"center\"\n        });\n        $(\"#pair-event-name\").text(e.partner.name + \" and you are paired\");\n        $(\"#pair-event-date\").text(\"Since \" + R(e.pairedDate));\n        $(\"#pair-event\").css({\n            display: \"inline-block\"\n        })\n    }\n\n    function D() {\n        if (e == null || window.jmid == false) return;\n        if (e.user.ll == null || e.partner.ll == null) return;\n        if ($(\".pin-avatar\").length) $(\".pin-avatar\").remove();\n        var t = $('<div class=\"pin-avatar bottom-pin\"><div class=\"pin\"></div></div>');\n        var n = $('<div class=\"pin-avatar bottom-pin\"><div class=\"pin\"></div></div>');\n        var o = $('<div id=\"pin-user-avatar\"></div>').appendTo(t);\n        var a = $('<div id=\"pin-partner-avatar\"></div>').appendTo(n);\n        o.css({\n            background: \"url(\" + e.user.photo + \")\",\n            \"background-repeat\": \"no-repeat\",\n            \"background-size\": \"cover\",\n            \"background-position\": \"center\"\n        });\n        a.css({\n            background: \"url(\" + e.partner.photo + \")\",\n            \"background-repeat\": \"no-repeat\",\n            \"background-size\": \"cover\",\n            \"background-position\": \"center\"\n        });\n        var r = u(e.user.ll[0], e.user.ll[1]);\n        var i = u(e.partner.ll[0], e.partner.ll[1]);\n        r.left /= cc.pRatio;\n        r.top /= cc.pRatio;\n        i.left /= cc.pRatio;\n        i.top /= cc.pRatio;\n        t.css({\n            left: r.left,\n            top: r.top\n        });\n        n.css({\n            left: i.left,\n            top: i.top\n        });\n        $(\"#canvas-wrapper\").append(t);\n        $(\"#canvas-wrapper\").append(n);\n        if (Math.abs(r.left - i.left) < t.width() && Math.abs(r.top - i.top) < t.height()) {\n            var c;\n            var s;\n            if (r.top - i.top <= 0) {\n                c = t;\n                s = n\n            } else {\n                c = n;\n                s = t\n            }\n            s.attr(\"class\", \"pin-avatar top-pin\")\n        }\n    }\n\n    function R(e) {\n        var t = [\"January\", \"February\", \"March\", \"April\", \"May\", \"June\", \"July\", \"August\", \"September\", \"October\", \"November\", \"December\"];\n        var n = new Date(e);\n        var o = n.getFullYear();\n        var a = n.getMonth();\n        var r = n.getDate();\n        return t[a] + \" \" + r.toString() + \", \" + o.toString()\n    }\n});\n\nfunction currentABT() {\n    var e;\n    try {\n        e = localStorage.getItem(\"abtParam\");\n        if (!e) {\n            e = Math.floor(Math.random() * 2 + 1);\n            localStorage.setItem(\"abtParam\", e)\n        }\n    } catch (t) {\n        e = 1\n    }\n    if (!e) e = 1;\n    return e\n}\n\nfunction initFacebookSharing() {\n    window.fbAsyncInit = function() {\n        $(\"#facebook-share-button\").on(\"click\", function() {\n            _gaq.push([\"_trackEvent\", \"Map\", \"Sharing\", \"facebook-attempt\"]);\n            FB.ui({\n                method: \"feed\",\n                link: \"https://map.couple.me\",\n                name: \"Couple App - Worldwide Activity Live Infographic\",\n                description: \"Millions of people around the world have started using Couple, the app for two, to stay connected with their partner. To celebrate, weâ€™re releasing a real-time data visualization of anonymized activity around the world.\",\n                picture: \"https://map.couple.me/images/couple-map-preview1.jpg\",\n                caption: \"Couple App\"\n            }, function(e) {\n                if (e) {\n                    _gaq.push([\"_trackEvent\", \"Map\", \"Sharing\", \"facebook-success\"])\n                }\n            });\n            return false\n        })\n    };\n    (function(e, t, n) {\n        var o, a = e.getElementsByTagName(t)[0];\n        if (e.getElementById(n)) return;\n        o = e.createElement(t);\n        o.id = n;\n        o.src = \"//connect.facebook.net/en_US/all.js#xfbml=1&appId=602135443135093\";\n        a.parentNode.insertBefore(o, a)\n    })(document, \"script\", \"facebook-jssdk\")\n}\n\nfunction initTwitterSharing() {\n    var e = \"https://map.couple.me\";\n    var t = \"Couple just released a map of couples connecting around the world in real-time. This is awesome:\";\n    var n = \"https://twitter.com/intent/tweet?\";\n    n += \"url=\" + encodeURIComponent(e);\n    n += \"&text=\" + encodeURIComponent(t);\n    n += \"&hashtags=\" + encodeURIComponent(\"CoupleApp\");\n    $(\"#twitter-share-button-target\").attr(\"href\", n);\n    $(\"#twitter-share-button-target\").css(\"text-decoration\", \"none\");\n    window.twttr = function(e, t, n) {\n        var o, a, r = e.getElementsByTagName(t)[0];\n        if (e.getElementById(n)) return;\n        a = e.createElement(t);\n        a.id = n;\n        a.src = \"https://platform.twitter.com/widgets.js\";\n        r.parentNode.insertBefore(a, r);\n        return window.twttr || (o = {\n            _e: [],\n            ready: function(e) {\n                o._e.push(e)\n            }\n        })\n    }(document, \"script\", \"twitter-wjs\");\n    $(\"#twitter-share-button-target\").on(\"click\", function() {\n        _gaq.push([\"_trackEvent\", \"Map\", \"Sharing\", \"twitter-attempt\"])\n    });\n    twttr.ready(function(e) {\n        e.events.bind(\"tweet\", function(e) {\n            _gaq.push([\"_trackEvent\", \"Map\", \"Sharing\", \"twitter-success\"])\n        })\n    })\n}",
+			"info-cell1",
+			"live",
+			"#intro",
+			"iphone",
+			"#nav",
+			"transition",
+			"#nav {",
+			"#nav ",
+			"chart",
+			"graph",
+			"lines",
+			"spark",
+			"lines",
+			"h1",
+			"container",
+			"wrapper",
+			"container",
+			"50px",
+			".row",
+			"1250",
+			"p, ul, ol, dl, table, .features",
+			"p ",
+			"header",
+			"logo",
+			"content",
+			"#content",
+			"h2",
+			"logo a",
+			"#logo a",
+			"#logo",
+			"h1",
+			"h2",
+			"h1",
+			"\";",
+			"#nav",
+			"#logo",
+			"brandon",
+			"bourbon",
+			"project-title",
+			"dribble",
+			"project-",
+			"p ",
+			".row",
+			".project-title",
+			"project-image",
+			"webkit-filter",
+			"#nav",
+			"main-content",
+			"logo-small",
+			"@2x",
+			".project ",
+			"project-image",
+			".project-image",
+			"$bg-img",
+			"bg.",
+			"transition",
+			".row",
+			"max-width",
+			"alarmik",
+			"alarmik-primar",
+			"alarmik-colo",
+			"ge-6 columns prev",
+			"#work .row",
+			"work-list",
+			"jorn",
+			"ul a",
+			"a:hover",
+			"footer a",
+			"a {",
+			"p a",
+			"work",
+			"p, ul",
+			"circle",
+			"ul",
+			"view-",
+			"navigate-down",
+			"intro-bg",
+			"line.png",
+			"#loader.hidden",
+			"footer",
+			"analysis",
+			"#logo",
+			"nav",
+			"#nav",
+			"menu",
+			"back to top",
+			"about",
+			"obj-c",
+			"#work",
+			"1a75b6",
+			"flitsmeister",
+			"#work",
+			"sjoerd perfors",
+			"close-light",
+			"densit",
+			"background-size",
+			"@media only screen and"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"v_texture",
+			"Boordevol innovaties. Klik voor meer info.",
+			",",
+			";",
+			"Wegafsluiting van 13-16 en 20-23 sept.;",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true
+}
